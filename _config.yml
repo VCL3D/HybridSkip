@@ -1,1 +1,12 @@
+title: HybridSkip
+description: A Biologically Inspired Skip Connection for the UNet Architecture
+show_downloads: false
 theme: jekyll-theme-architect
+
+github:
+  # data_url: 
+  # models_url: 
+  owner_url: https://zokin.github.io
+  owner_name: Nikolaos Zioulis
+  
+google_analytics: UA-147231916-1
