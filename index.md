@@ -11,11 +11,11 @@ layout: default
 
 # Paper
 
-<img src="./assets/images/dog-cat.gif" width=15%>
-<img src="./assets/images/bird-plane.gif" width=15%>
-<img src="./assets/images/bike-motorcycle.gif" width=20%>
-<img src="./assets/images/einstein-marilyn.gif" width=11.5%>
-<img src="./assets/images/fish-submarine.gif" width=17%>
+<img width=159 src="./assets/images/dog-cat.gif">
+<img width=160 src="./assets/images/bird-plane.gif">
+<img width=215 src="./assets/images/bike-motorcycle.gif">
+<img width=120 src="./assets/images/einstein-marilyn.gif">
+<img width=150 src="./assets/images/fish-submarine.gif">
 
 # Results
 
